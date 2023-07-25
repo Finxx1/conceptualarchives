@@ -1,0 +1,100 @@
+TestNPC {
+#basic sideways
+    movieclip NPC0
+    sound_id NPCSkull
+    text [
+        "we are \nfucked \ndude"
+   
+    ]
+}
+
+npcdg00 {
+#basic sideways
+    movieclip NPC0
+    sound_id NPCSkull
+    text [
+        "you\n. . .\nagain . . ."
+        "must be nice still\nbeing alive\nn' all that"
+        "just get the tumor\nthat wiggled out\nof my corpse"
+        "it's been drowning\ndown there for who\nknows how long"
+        "i don't care anymore\n. . .\njust take it"
+		"if you\nstill can\n. . ."
+		"\n. . ."
+		"also, i don't think\nthe water will let\nyou through"
+		"that platform\ndown there\nby the tumor"
+    ]
+}
+
+NPCH1 {
+#basic sideways
+    movieclip NPCH1
+    sound_id NPCSteven
+    text [
+        "would you\nlike to see\nyour fate?"
+        "this ride requires 50 lifetimes of suffering to enter"
+        "please return\nwhen your\ntumor has grown"
+        "we will\nbe\nwaiting"
+    ]
+    
+    alt_text [
+        "\nmmmmmmm!"
+        "\nyou reek of sadness!"
+        "please\npoke your head\ninto the future!"
+    ]
+}
+
+NPCH2 {
+#basic sideways
+    movieclip NPCH2
+    sound_id NPCSteven
+    text [
+        "the mother\ncalls out\nfor you"
+        "she requires\n100 souls to\nallow entry"
+        "come back\nwhen you have\nharvested more"
+        "hury\nshe grows\nimpiant"
+    ]
+    
+    alt_text [
+        "the mother is\npleased with\nyour offering"
+        "you may\nenter her\nkingdom"
+        "\n. . ."
+    ]
+}
+NPCH3 {
+#basic sideways
+    movieclip NPCH3
+    sound_id NPCSteven
+    text [
+        "we are\nthe\nfuture!"
+        "170 is the\nnumber\nrequired"
+        "when you\ncan count\nthat high"
+        "we will\nallow\nentry"
+    ]
+    
+    alt_text [
+        "my third eye\nis\ntwitching"
+        "are you ready\nto recieve\nour gift?"
+        "\n. . ."
+    ]
+}
+NPCH4 {
+#basic sideways
+    movieclip NPCH4
+    sound_id NPCSteven
+    text [
+        "guh . .\n\nguh . ."
+        "i\nhunger\n. . ."
+        "\n300. . ."
+        "must\nbe\nblood"
+        "must\nbe\nfresh"
+        "\n. . ."
+        "\nfeed me . . ."
+    ]
+    
+    alt_text [
+        "\n. . ."
+        "\ngrumble"
+        "\ngrumble"
+        "\n. . ."
+    ]
+}

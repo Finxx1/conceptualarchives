@@ -1,0 +1,10 @@
+"c9-0" {name="Infinity Bitterness 1" id=-1}
+"c9-1" {name="Infinity Bitterness 2" id=-1}
+"c9-2" {name="Infinity Bitterness 3" id=-1}
+"c9-2a" {name="Bifinity Intterness 7" id=-1}
+"c9-2b" {name="Finity Bittersweetness" id=-1}
+"c9-2c" {name="!OFe-Py C?!cVd-Owz k" id=-1}
+
+"dg-0" {name="Dusty Grove" id=-1}
+"dg-1" {name="Dusty Grove 1" id=1}
+"dg-2" {name="Dusty Grove 2" id=2}
