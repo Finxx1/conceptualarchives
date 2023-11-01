@@ -64,3 +64,15 @@ dg {
 		decoration_1 bonepile
 	}
 }
+
+am {
+    area_name "Ambrosia"
+	area_label_frame 0
+	
+	palette 7
+	
+	tile_graphics Tileambrosia
+	overlay_graphics Overlaysfield
+	
+	background_graphics ambrosiabg
+}
